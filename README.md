@@ -13,6 +13,7 @@ This is the temporary link to my blog, right now under construction.
 - [ ] Finish up Quantum Batteries paper.
 - [ ] Prepare Quantum Batteries presentation for the QuoVadis of the SNS Research Group.
 - [ ] Decide and approve the study plan for the PhD.
+- [ ] Introductory study to Quantum magic / Resource theory
 
 <!--
 **TheQuantumJoker/TheQuantumJoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
