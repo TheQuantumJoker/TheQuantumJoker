@@ -12,7 +12,7 @@ This is the temporary link to my blog, right now under construction.
 - [ ] Review Quantum Batteries materials.
 - [ ] Finish up Quantum Batteries paper.
 - [ ] Prepare Quantum Batteries presentation for the QuoVadis of the SNS Research Group.
-- [ ] Decide and approve the study plan for the PhD.
+- [x] Decide and approve the study plan for the PhD.
 - [x] Introductory study to Quantum magic / Resource theory
 
 <!--
